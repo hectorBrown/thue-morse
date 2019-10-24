@@ -1,0 +1,6 @@
+c:\users\hector\source\repos\PosNegNegPos\PosNegNegPos\bin\Debug\PosNegNegPos.exe.config
+c:\users\hector\source\repos\PosNegNegPos\PosNegNegPos\bin\Debug\PosNegNegPos.exe
+c:\users\hector\source\repos\PosNegNegPos\PosNegNegPos\bin\Debug\PosNegNegPos.pdb
+c:\users\hector\source\repos\PosNegNegPos\PosNegNegPos\obj\Debug\PosNegNegPos.csproj.CoreCompileInputs.cache
+c:\users\hector\source\repos\PosNegNegPos\PosNegNegPos\obj\Debug\PosNegNegPos.exe
+c:\users\hector\source\repos\PosNegNegPos\PosNegNegPos\obj\Debug\PosNegNegPos.pdb

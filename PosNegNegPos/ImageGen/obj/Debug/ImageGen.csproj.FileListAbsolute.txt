@@ -1,0 +1,10 @@
+c:\users\hector\source\repos\PosNegNegPos\ImageGen\obj\Debug\ImageGen.Form1.resources
+c:\users\hector\source\repos\PosNegNegPos\ImageGen\obj\Debug\ImageGen.Properties.Resources.resources
+c:\users\hector\source\repos\PosNegNegPos\ImageGen\obj\Debug\ImageGen.csproj.GenerateResource.Cache
+c:\users\hector\source\repos\PosNegNegPos\ImageGen\obj\Debug\ImageGen.csproj.CoreCompileInputs.cache
+c:\users\hector\source\repos\PosNegNegPos\ImageGen\obj\Debug\ImageGen.exe
+C:\Users\Hector\source\repos\PosNegNegPos\ImageGen\bin\Debug\ImageGen.exe.config
+C:\Users\Hector\source\repos\PosNegNegPos\ImageGen\bin\Debug\ImageGen.exe
+C:\Users\Hector\source\repos\PosNegNegPos\ImageGen\bin\Debug\ImageGen.pdb
+C:\Users\Hector\source\repos\PosNegNegPos\ImageGen\obj\Debug\ImageGen.pdb
+C:\Users\Hector\source\repos\PosNegNegPos\ImageGen\obj\Debug\ImageGen.csprojResolveAssemblyReference.cache
