@@ -7,3 +7,14 @@ C:\Users\Hector\source\repos\PosNegNegPos\ImgGen\obj\Debug\ImgGen.Form1.resource
 C:\Users\Hector\source\repos\PosNegNegPos\ImgGen\obj\Debug\ImgGen.exe
 C:\Users\Hector\source\repos\PosNegNegPos\ImgGen\obj\Debug\ImgGen.pdb
 C:\Users\Hector\source\repos\PosNegNegPos\ImgGen\obj\Debug\ImgGen.csprojAssemblyReference.cache
+C:\Users\hecto\Source\Repos\thue-morse\PosNegNegPos\ImgGen\bin\Debug\ImgGen.exe.config
+C:\Users\hecto\Source\Repos\thue-morse\PosNegNegPos\ImgGen\bin\Debug\ImgGen.exe
+C:\Users\hecto\Source\Repos\thue-morse\PosNegNegPos\ImgGen\bin\Debug\ImgGen.pdb
+C:\Users\hecto\Source\Repos\thue-morse\PosNegNegPos\ImgGen\obj\Debug\ImgGen.csproj.AssemblyReference.cache
+C:\Users\hecto\Source\Repos\thue-morse\PosNegNegPos\ImgGen\obj\Debug\ImgGen.csproj.SuggestedBindingRedirects.cache
+C:\Users\hecto\Source\Repos\thue-morse\PosNegNegPos\ImgGen\obj\Debug\ImgGen.Form1.resources
+C:\Users\hecto\Source\Repos\thue-morse\PosNegNegPos\ImgGen\obj\Debug\ImgGen.Properties.Resources.resources
+C:\Users\hecto\Source\Repos\thue-morse\PosNegNegPos\ImgGen\obj\Debug\ImgGen.csproj.GenerateResource.cache
+C:\Users\hecto\Source\Repos\thue-morse\PosNegNegPos\ImgGen\obj\Debug\ImgGen.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Source\Repos\thue-morse\PosNegNegPos\ImgGen\obj\Debug\ImgGen.exe
+C:\Users\hecto\Source\Repos\thue-morse\PosNegNegPos\ImgGen\obj\Debug\ImgGen.pdb

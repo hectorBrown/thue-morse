@@ -4,3 +4,11 @@ c:\users\hector\source\repos\PosNegNegPos\PosNegNegPos\bin\Debug\PosNegNegPos.pd
 c:\users\hector\source\repos\PosNegNegPos\PosNegNegPos\obj\Debug\PosNegNegPos.csproj.CoreCompileInputs.cache
 c:\users\hector\source\repos\PosNegNegPos\PosNegNegPos\obj\Debug\PosNegNegPos.exe
 c:\users\hector\source\repos\PosNegNegPos\PosNegNegPos\obj\Debug\PosNegNegPos.pdb
+C:\Users\hecto\Source\Repos\thue-morse\PosNegNegPos\PosNegNegPos\bin\Debug\PosNegNegPos.exe.config
+C:\Users\hecto\Source\Repos\thue-morse\PosNegNegPos\PosNegNegPos\bin\Debug\PosNegNegPos.exe
+C:\Users\hecto\Source\Repos\thue-morse\PosNegNegPos\PosNegNegPos\bin\Debug\PosNegNegPos.pdb
+C:\Users\hecto\Source\Repos\thue-morse\PosNegNegPos\PosNegNegPos\obj\Debug\PosNegNegPos.csproj.AssemblyReference.cache
+C:\Users\hecto\Source\Repos\thue-morse\PosNegNegPos\PosNegNegPos\obj\Debug\PosNegNegPos.csproj.SuggestedBindingRedirects.cache
+C:\Users\hecto\Source\Repos\thue-morse\PosNegNegPos\PosNegNegPos\obj\Debug\PosNegNegPos.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Source\Repos\thue-morse\PosNegNegPos\PosNegNegPos\obj\Debug\PosNegNegPos.exe
+C:\Users\hecto\Source\Repos\thue-morse\PosNegNegPos\PosNegNegPos\obj\Debug\PosNegNegPos.pdb

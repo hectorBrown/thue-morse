@@ -78,7 +78,7 @@ namespace ImgGen
                     {
                         if (input[counter] == '0')
                         {
-                            g.FillEllipse(new SolidBrush(Color.FromArgb(255,255,255)), new Rectangle(x, y, 10, 10));
+                            g.FillEllipse(new SolidBrush(Color.FromArgb(255,128,128)), new Rectangle(x, y, 10, 10));
                         }
                     }
                     counter++;
